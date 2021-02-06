@@ -2,4 +2,4 @@
 Say hello to github
 
 I just add some words into the README file.
-I'm willing to enjoy github for the restof my life.
+This is a inspiration for my codind development.
